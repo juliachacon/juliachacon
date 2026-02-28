@@ -60,4 +60,4 @@ I care deeply about:
 - 💬 Happy to talk about R, statistics and data visualization
 - 📫 How to reach me: julia.chacon@urjc.es
 
-
+![Profile Views](https://komarev.com/ghpvc/?username=TU_USUARIO)
