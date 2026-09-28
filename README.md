@@ -48,8 +48,9 @@ I care deeply about:
 - 📊 **Data analysis projects in R (coming soon)**  
   Collection of data analysis workflows in R, including data cleaning, statistical modeling and visualization.
 
-- 🎓 **Educational tools for R (in progress)**  
-  Development of automatic grading tools for R exercises, inspired by 42’s Moulinette.
+- 🎓 **Educational tools for R**  
+  Development of automatic grading tools for R exercises, inspired by 42’s Moulinette (in progress).
+  Development of teaching materials for learning R and statistics
   
 ---
 ## Currently
