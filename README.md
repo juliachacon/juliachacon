@@ -1,17 +1,22 @@
 
 ## About me
 
-I work with real-world scientific data, from raw datasets to exploratory analysis, statistical modeling and visualization.  
-I have strong experience in R, reproducible workflows and teaching data analysis.
+Ecologist, researcher and university lecturer. I learn fast, I teach well, and I help people become independent learners.
 
-My background is in ecology and university teaching, and I’m currently expanding my skills towards software development and more technical data projects.
+I study functional ecology and how ecosystems respond to global change, and I teach ecology, global change and data analysis at university level, including in an international Erasmus Mundus master's programme.
 
+I move easily between fields: from ecological theory to fieldwork, from raw datasets to statistical models and visualizations in R. When I need a new skill, I learn it, and then I find a way to teach it.
 
-I care deeply about:
-- clean and reproducible code
-- clear data visualization
-- analysis with real-world impact
-- learning by doing (peer-to-peer, open source, education)
+What I do best is helping others learn. I explain complex things clearly, and I make sure people leave with the skills and the confidence to keep learning on their own, whatever the subject.
+
+I also make things happen: I like challenges, I start projects and I see them through.
+
+Things I care about:
+
+understanding complex systems, natural and digital
+reproducible, readable code and clear visualization
+science with real-world impact
+open education and sharing what I learn
 
 ---
 ## 🔍 Data analysis
