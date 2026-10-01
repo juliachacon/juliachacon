@@ -1,11 +1,11 @@
 
 ## About me
 
-Ecologist, researcher and university lecturer. I learn fast, I teach well, and I help people become independent learners.
+Ecologist, researcher and university lecturer. I learn fast, and help people become independent learners.
 
 I study functional ecology and how ecosystems respond to global change, and I teach ecology, global change and data analysis at university level, including in an international Erasmus Mundus master's programme.
 
-I move easily between fields: from ecological theory to fieldwork, from raw datasets to statistical models and visualizations in R. When I need a new skill, I learn it, and then I find a way to teach it.
+I move easily between fields: from ecological theory to fieldwork, from raw datasets to statistical models and visualizations in R. When I need a new skill, I learn it, and then I find a way to share it.
 
 What I do best is helping others learn. I explain complex things clearly, and I make sure people leave with the skills and the confidence to keep learning on their own, whatever the subject.
 
